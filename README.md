@@ -32,4 +32,4 @@ y = df['Survived'].values
 
 
 ### credit
-[sololearn](https://www.sololearn.com/learning/1094/3311/7382/1)
+[Sololearn](https://www.sololearn.com/learning/)
